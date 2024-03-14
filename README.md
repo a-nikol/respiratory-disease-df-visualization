@@ -22,7 +22,7 @@ This repository contains Python code for visualizing data related to respiratory
 ## Repository Structure
 - **README.md**: This file containing information about the project, dataset, methods, and results.
 - **data**: Directory containing the dataset (Dataset.xlsx).
-- **visualization.ipynb**: Jupyter notebook containing the Python code for data preprocessing, visualization, and dimensionality reduction.
+- **respiratory-disease-df-visualization.ipynb**: Jupyter notebook containing the Python code for data preprocessing, visualization, and dimensionality reduction.
 
 ## Instructions for Running the Code
 1. Ensure you have Python installed on your system along with the necessary libraries specified in the notebook.
