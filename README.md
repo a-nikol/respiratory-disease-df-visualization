@@ -32,8 +32,8 @@ This repository contains Python code for visualizing data related to respiratory
 
 ## Results Summary
 - By completing this work, the following goals were achieved:
-    - **Improved Understanding**: The project enhances understanding of respiratory diseases by visualizing the distribution of diagnoses across genders and the entire dataset.
-    - **Insightful Analysis**: Data preprocessing techniques such as handling missing values and normalization prepare the data for analysis, enabling deeper insights into disease patterns.
-    - **Dimensionality Reduction**: The application of dimensionality reduction techniques like PCA and t-SNE aids in visualizing high-dimensional data, making it easier to interpret and identify underlying patterns.
-    - **Parameter Tuning**: The project explores parameter tuning for t-SNE to achieve better visualization results, improving the clarity and interpretability of the visualizations.
+    - The project enhances understanding of respiratory diseases by visualizing the distribution of diagnoses across genders and the entire dataset.
+    - Data preprocessing techniques such as handling missing values and normalization prepare the data for analysis, enabling deeper insights into disease patterns.
+    - The application of dimensionality reduction techniques like PCA and t-SNE aids in visualizing high-dimensional data, making it easier to interpret and identify underlying patterns.
+    - The project explores parameter tuning for t-SNE to achieve better visualization results, improving the clarity and interpretability of the visualizations.
 - The skills utilized in this project, including data preprocessing, visualization, and dimensionality reduction, are valuable for data analysis and interpretation in various domains, particularly in healthcare and medical research.
